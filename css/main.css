@@ -1,0 +1,13 @@
+@import url('../css/header.css');
+@import url('../css/footer.css');
+@import url('../css/post.css');
+@import url('../css/index.css');
+
+
+
+*{
+    /* box-sizing: border-box; */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    }
